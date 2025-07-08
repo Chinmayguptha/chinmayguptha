@@ -20,9 +20,9 @@ Motivated Information Science student at NMIT with a strong passion for learning
 - **Mobile & App Dev:** Flutter, Dart, Firebase
 - **Web Development:** HTML, CSS, JavaScript, EJS, Node.js, Express, SQL, MySQL
 - **Game Development:** C#, Unity
-- **Programming Languages:** Java, C#
+- **Programming Languages:** Java
 - **AI & Data Science:** Python, Pandas, NumPy, Jupyter Notebook, Machine Learning (exploring!)
-- **Tools & IDEs:** VS Code, IntelliJ IDEA, Jupyter
+- **Tools & IDEs:** VS Code, IntelliJ IDEA, Jupyter , Unity Engine
 
 ---
 
